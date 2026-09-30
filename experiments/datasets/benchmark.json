@@ -1,0 +1,202 @@
+[
+  {
+    "task_id": "task_01",
+    "project_name": "AI Resume Screener",
+    "project_description": "FastAPI-based resume screening system using BERT and a React frontend.",
+    "query": "Continue AI Resume Screener",
+    "query_type": "exact",
+    "correct_project": "AI Resume Screener"
+  },
+  {
+    "task_id": "task_02",
+    "project_name": "E-commerce Cart Service",
+    "project_description": "Node.js microservice handling shopping cart and checkout for an online store.",
+    "query": "Resume my project for node",
+    "query_type": "paraphrased",
+    "correct_project": "E-commerce Cart Service"
+  },
+  {
+    "task_id": "task_03",
+    "project_name": "Weather Dashboard",
+    "project_description": "React dashboard visualizing weather forecasts using an open weather API.",
+    "query": "Continue the weather project",
+    "query_type": "vague",
+    "correct_project": "Weather Dashboard"
+  },
+  {
+    "task_id": "task_04",
+    "project_name": "Chat Application",
+    "project_description": "Real-time chat app built with Socket.io and Express.",
+    "query": "Open the project where I was working on Real-time",
+    "query_type": "contextual",
+    "correct_project": "Chat Application"
+  },
+  {
+    "task_id": "task_05",
+    "project_name": "Portfolio Website",
+    "project_description": "Personal portfolio site built with Next.js and Tailwind CSS.",
+    "query": "Continue my website project",
+    "query_type": "ambiguous",
+    "correct_project": "Portfolio Website"
+  },
+  {
+    "task_id": "task_06",
+    "project_name": "Inventory Management System",
+    "project_description": "Django app for tracking warehouse inventory and stock levels.",
+    "query": "Continue Inventory Management System",
+    "query_type": "exact",
+    "correct_project": "Inventory Management System"
+  },
+  {
+    "task_id": "task_07",
+    "project_name": "Sentiment Analysis Tool",
+    "project_description": "Python NLP tool for classifying tweet sentiment using scikit-learn.",
+    "query": "Resume my project for python nlp tool for classifying tweet sentiment using scikit-learn",
+    "query_type": "paraphrased",
+    "correct_project": "Sentiment Analysis Tool"
+  },
+  {
+    "task_id": "task_08",
+    "project_name": "Recipe Finder App",
+    "project_description": "Flutter mobile app for searching recipes by ingredient.",
+    "query": "Continue the recipe project",
+    "query_type": "vague",
+    "correct_project": "Recipe Finder App"
+  },
+  {
+    "task_id": "task_09",
+    "project_name": "Blog CMS",
+    "project_description": "Headless content management system for blogging, built with Strapi.",
+    "query": "Open the project where I was working on Headless",
+    "query_type": "contextual",
+    "correct_project": "Blog CMS"
+  },
+  {
+    "task_id": "task_10",
+    "project_name": "Expense Tracker",
+    "project_description": "Personal finance app for tracking expenses, built with Vue and Firebase.",
+    "query": "Continue my tracker project",
+    "query_type": "ambiguous",
+    "correct_project": "Expense Tracker"
+  },
+  {
+    "task_id": "task_11",
+    "project_name": "Object Detection Pipeline",
+    "project_description": "Computer vision pipeline using YOLO for detecting objects in video streams.",
+    "query": "Continue Object Detection Pipeline",
+    "query_type": "exact",
+    "correct_project": "Object Detection Pipeline"
+  },
+  {
+    "task_id": "task_12",
+    "project_name": "Task Scheduler API",
+    "project_description": "REST API for scheduling and managing background jobs with Celery.",
+    "query": "Resume my project for rest api for scheduling and managing background jobs with celery",
+    "query_type": "paraphrased",
+    "correct_project": "Task Scheduler API"
+  },
+  {
+    "task_id": "task_13",
+    "project_name": "Music Streaming Backend",
+    "project_description": "Backend service for streaming audio, built with Go and PostgreSQL.",
+    "query": "Continue the music project",
+    "query_type": "vague",
+    "correct_project": "Music Streaming Backend"
+  },
+  {
+    "task_id": "task_14",
+    "project_name": "Study Planner App",
+    "project_description": "Web app helping students plan study schedules, built with React and MongoDB.",
+    "query": "Open the project where I was working on Web",
+    "query_type": "contextual",
+    "correct_project": "Study Planner App"
+  },
+  {
+    "task_id": "task_15",
+    "project_name": "Movie Recommendation Engine",
+    "project_description": "Collaborative filtering recommendation system for movies using Python.",
+    "query": "Continue my engine project",
+    "query_type": "ambiguous",
+    "correct_project": "Movie Recommendation Engine"
+  },
+  {
+    "task_id": "task_16",
+    "project_name": "Fitness Tracker",
+    "project_description": "Mobile app tracking workouts and calories, built with React Native.",
+    "query": "Continue Fitness Tracker",
+    "query_type": "exact",
+    "correct_project": "Fitness Tracker"
+  },
+  {
+    "task_id": "task_17",
+    "project_name": "Job Board Platform",
+    "project_description": "Full-stack job listing platform with employer and candidate portals.",
+    "query": "Resume my project for full-stack job listing platform with employer and candidate portals",
+    "query_type": "paraphrased",
+    "correct_project": "Job Board Platform"
+  },
+  {
+    "task_id": "task_18",
+    "project_name": "Code Review Bot",
+    "project_description": "GitHub bot that automatically comments on pull requests with linting feedback.",
+    "query": "Continue the code project",
+    "query_type": "vague",
+    "correct_project": "Code Review Bot"
+  },
+  {
+    "task_id": "task_19",
+    "project_name": "Password Manager",
+    "project_description": "Secure local password manager with AES encryption, built in Python.",
+    "query": "Open the project where I was working on Secure",
+    "query_type": "contextual",
+    "correct_project": "Password Manager"
+  },
+  {
+    "task_id": "task_20",
+    "project_name": "Real Estate Listings Site",
+    "project_description": "Property listing website with search and filtering, built with Next.js.",
+    "query": "Continue my site project",
+    "query_type": "ambiguous",
+    "correct_project": "Real Estate Listings Site"
+  },
+  {
+    "task_id": "task_21",
+    "project_name": "Voice Note Transcriber",
+    "project_description": "Tool that transcribes voice memos to text using a local speech model.",
+    "query": "Continue Voice Note Transcriber",
+    "query_type": "exact",
+    "correct_project": "Voice Note Transcriber"
+  },
+  {
+    "task_id": "task_22",
+    "project_name": "Event Booking System",
+    "project_description": "Platform for booking tickets to local events, built with Laravel.",
+    "query": "Resume my project for platform for booking tickets to local events, built with laravel",
+    "query_type": "paraphrased",
+    "correct_project": "Event Booking System"
+  },
+  {
+    "task_id": "task_23",
+    "project_name": "Plant Disease Classifier",
+    "project_description": "CNN model classifying plant leaf diseases from images.",
+    "query": "Continue the plant project",
+    "query_type": "vague",
+    "correct_project": "Plant Disease Classifier"
+  },
+  {
+    "task_id": "task_24",
+    "project_name": "Budget Forecasting Tool",
+    "project_description": "Spreadsheet-style app forecasting monthly budgets, built with React.",
+    "query": "Open the project where I was working on Spreadsheet-style",
+    "query_type": "contextual",
+    "correct_project": "Budget Forecasting Tool"
+  },
+  {
+    "task_id": "task_25",
+    "project_name": "Resume Parsing Research",
+    "project_description": "Research project extracting structured data from resumes using BERT embeddings.",
+    "query": "Continue my research project",
+    "query_type": "ambiguous",
+    "correct_project": "Resume Parsing Research"
+  }
+]
